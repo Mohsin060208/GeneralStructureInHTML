@@ -1,0 +1,36 @@
+.header{    
+    width: auto;
+    height: 60px;
+    background-color: rgb(0, 85,250);
+}
+p{
+    margin: 5px;
+    padding-top: 20px;
+}
+.messages{
+    margin-top: -5px;
+    width: auto;
+    height: 180px;
+    background-color: rgb(68, 238,0);
+}
+.left{
+    float: left;
+    height: inherit;
+    width: 60%;
+    background-color: rgb(213,213,213);
+}
+.right{
+    width: 40%;
+    height: inherit;
+    float: right;
+    background-color: rgb(255,17,0);
+}
+.footer{
+    margin-top: -5px;
+    width: auto;
+    height: 60px;
+    background-color: rgb(0, 85,250);
+}
+.content{
+    height: 300px;
+}
